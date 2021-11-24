@@ -1,0 +1,144 @@
+
+body{
+  background-color: #DADDFC;
+}
+.top{
+  background-color: #DADDFC;
+  text-align: center;
+  position: relative;
+  padding-top: 100px;
+
+}
+
+.madhla{
+  border-style: none;
+  border-top-style: dotted;
+  width: 30%;
+
+  border-color: grey;
+  border-width: 4px;
+}
+
+body{
+  margin: 0;
+}
+
+.none{
+  text-decoration: none;
+
+}
+
+.heading:hover{
+  color: #BF1363;
+  cursor: pointer;
+}
+
+h2{
+  font-family: 'Ubuntu Mono', monospace;
+  font-size: 30px;
+  font-weight: bold;
+
+
+  color:#11052C;
+}
+
+.bot{
+  font-family: 'Ubuntu Mono', monospace;
+  font-size: 17px;
+  font-weight: bold;
+  color: #152D35;
+}
+.link{
+  font-family: 'Ubuntu Mono', monospace;
+  font-size: 17px;
+  font-weight: bold;
+  color: #185ADB;
+}
+
+.sub:hover{
+  font-style: italic;
+}
+
+.link:hover{
+  color: #DF2E2E;
+}
+
+.heading{
+  font-family: 'Sacramento', cursive;
+
+  font-size: 5em;
+  color:#003638;
+  font-weight: bolder;
+  margin: 10px;
+
+}
+
+
+
+.skillheading{
+  font-family: 'Niconne', cursive;
+  font-weight: bolder;
+  font-size: 4em;
+  color: #630A10;
+}
+
+hr{
+  border-style: dashed;
+
+
+  border-color: #345B63;
+
+}
+
+hr:hover{
+  border-color: #FB9300;
+}
+
+.info{
+  font-family: 'Lora', serif;
+  font-weight: bold;
+  font-size: 17px;
+  color: #152D35;
+}
+
+.sub{
+  font-family: 'Ubuntu Mono', monospace;
+  font-size: 30px;
+  color: #003638;
+  margin-top: 10px;
+}
+
+.middle{
+  text-align: center;
+
+
+}
+
+
+
+.bottom{
+  text-align: center;
+
+
+
+}
+
+.dp{
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+}
+
+.upcloud{
+  position: absolute;
+  right: 350px;
+  top: 50px;
+
+
+}
+
+.downcloud{
+  position: absolute;
+  bottom: 320px;
+  left:350px;
+}
